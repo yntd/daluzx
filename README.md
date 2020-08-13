@@ -1,22 +1,17 @@
 
   您好！ 欢迎浏览下面三个中国大陆的真相网站，请点击入口。 <br/>
-
-
-
-
-
-
+  <br/> 
+  <br/>
    大陆真相网<br/>
-
+<br/>
   <a id="dlLink" href="https://is.gd/RgWFwD" rel="nofollow">入口</a>
-
+<br/>
   长春真相网<br/>
-
+<br/>
   <a id="ccLink" href="https://is.gd/P54cPT" rel="nofollow">入口</a>
-
-
-   北京真相网<br/>
-
+<br/>  
+  北京真相网<br/>
+  <br/>
   <a id="bjLink" href="https://is.gd/fMpYXu" rel="nofollow">入口</a>
 
 
