@@ -2,20 +2,18 @@
   您好！ 欢迎浏览下面三个中国大陆的真相网站，请点击入口。 <br/>
   <br/> 
   <br/>
-   大陆真相网<br/>
-<br/>
-  <a id="dlLink" href="https://is.gd/RgWFwD" rel="nofollow">入口</a>
-<br/>
-  长春真相网<br/>
-<br/>
-  <a id="ccLink" href="https://is.gd/P54cPT" rel="nofollow">入口</a>
-<br/>  
-  北京真相网<br/>
+   <br/> 
   <br/>
+   大陆真相网<br/>
+  <a id="dlLink" href="https://is.gd/RgWFwD" rel="nofollow">入口</a>
+  长春真相网<br/>
+  <a id="ccLink" href="https://is.gd/P54cPT" rel="nofollow">入口</a>
+  北京真相网<br/>
   <a id="bjLink" href="https://is.gd/fMpYXu" rel="nofollow">入口</a>
-
-
-
+ <br/> 
+  <br/>
+ <br/> 
+  <br/>
   微信如提示停止访问该网页，须<br>
   先点击右上角，选择浏览器打开<br>
 
